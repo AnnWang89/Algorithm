@@ -170,8 +170,8 @@ int main()
     output(0,num_index-1,1);
     //cout << endl <<"num_index: "<< num_index;
     END = clock();
-    //cout << endl << "µ{¦¡°õ¦æ©Òªá¶O¡G" << (double)clock()/CLOCKS_PER_SEC << " S" ;
-    //cout << endl << "¶i¦æ¹Bºâ©Òªá¶Oªº®É¶¡¡G" << (END - START) / CLOCKS_PER_SEC << " S" << endl;
+    //cout << endl << "ç¨‹å¼åŸ·è¡Œæ‰€èŠ±è²»ï¼š" << (double)clock()/CLOCKS_PER_SEC << " S" ;
+    //cout << endl << "é€²è¡Œé‹ç®—æ‰€èŠ±è²»çš„æ™‚é–“ï¼š" << (END - START) / CLOCKS_PER_SEC << " S" << endl;
     return 0;
 }
 int calculate(int left,int right,char op)
